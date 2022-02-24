@@ -1,4 +1,4 @@
-# DeepLearning2021
+# Semantic Consistent Weather Transfer
 The problem of benchmarking and comparing different vision algorithms for autonomous driving tasks under different weather is fundamental in order to be able to deploy autonomous driving systems safely onto the road. However, collect large amount of data from different weather can be very difficult.
 
 In our project, we proposed a new GAN network for transforming the weather of the images, in the hopes to generate new data for self driving without the need to collect more data.
