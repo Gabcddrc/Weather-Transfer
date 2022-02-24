@@ -1,0 +1,11 @@
+# Our GAN
+# Set Personal path
+personal_path: '/psi/home/li_s1/'
+
+# Probability that each data augmentation transform is applied (set to 1/(N_transforms + 1))
+probability_augmentation_transform: 0.125
+
+dataset_path:  'data/Season/images_400_224/100k/'
+labels_path:   'data/Season/bdd100k-data/labels/'
+names_path:    'DeepLearning2021/dataset/names/'
+segmentation_path: 'data/Season/classids_400_224_better/'
